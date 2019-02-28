@@ -21,7 +21,8 @@
 library fcm_push;
 
 import 'dart:async';
-import 'package:http/http.dart' as http;
+import 'package:node_http/node_http.dart' as http;
+import 'package:http/http.dart' as old_http;
 import 'dart:convert';
 import 'package:tuple/tuple.dart';
 import 'package:validate/validate.dart';

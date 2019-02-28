@@ -37,6 +37,8 @@ dependencies:
 
   console_log_handler: '>=1.1.0 <2.0.0'
 
+  node_http:
+
 dev_dependencies:
   test: any
 
