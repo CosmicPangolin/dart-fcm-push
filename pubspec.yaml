@@ -12,8 +12,6 @@ environment:
 # Activate local repo:
 #   pub global activate --source path .
 #
-executables:
-  fcm-push:
 
 dependencies:
   args: ^1.5.0
